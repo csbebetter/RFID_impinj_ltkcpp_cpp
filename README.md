@@ -1,2 +1,2 @@
 # RFID_impinj_ltkcpp_cpp
-just a example
+Just an example compiled with impinj reader.
